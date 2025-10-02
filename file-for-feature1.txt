@@ -1,7 +1,4 @@
 File for first branch
 
-<<<<<<< HEAD
 DropDown
-=======
 button
->>>>>>> main
